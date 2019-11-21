@@ -9,7 +9,7 @@ Disclaimer: Some of the utility functions used in final_vae_ops_cvpr are taken f
 ##########################################################
 import tensorflow as tf
 import numpy as np
-import final_vae_ops as ops
+import uvae_ops as ops
 import tfrecords as tr
 import glob
 import os
