@@ -29,7 +29,7 @@ img_dir_base = './data/'
 ##########################################################
 ##########################################################
 # A simple command to run this code:
-# python -u final_vae_cvpr.py -d all_datasets --train -e 15 -ims 28 -bs 64  -texture True -model_name 'final_vae_cvpr' > log_final_vae_cvpr
+# python -u uvae.py -d all_datasets --train -e 15 -ims 28 -bs 64  -texture True -model_name 'uvae' > log_uvae
 # where you can give any name for '-d', '-model_name' arguments as well as for log file 'log_3D_VAE'. 
 # MNIST, CelebA, and Model40 datasets are hard coded, which will be updated in the future to provide them as option on the command line. 
 ##########################################################
