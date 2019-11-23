@@ -4,7 +4,7 @@
 Author: Talip Ucar
 Date: November 1, 2019
 Description: 3D-VAE model is developed to learn 3D shapes from single images. 
-Disclaimer: Some of the utility functions used in final_vae_ops_cvpr are taken from PrGAN github page: https://github.com/matheusgadelha/PrGAN 
+Disclaimer: Some of the utility functions used in uvae_ops are taken from PrGAN github page: https://github.com/matheusgadelha/PrGAN 
 """
 ##########################################################
 import tensorflow as tf
