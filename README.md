@@ -4,7 +4,7 @@
 
 ## 3D VAE Architecture:
 ![_config.yml](./architecture/3dvae_architecture.png)
-**Figure-1:**
+**Figure-1:** Architecture of 3D-VAE.
 
 ## Sample shapes learned during training:
 
@@ -27,7 +27,7 @@ Below are the shapes of digits 2, 3, and 5 from MNIST dataset learned during tra
 | ![](./ExampleResults/rendered_grid1/Corresponding_input_data.png) | ![](./ExampleResults/rendered_grid1/Rendered_Image_Grid_during_training_showing_items_from_all_datasets.gif) |
 | ![](./ExampleResults/rendered_grid2/Corresponding_input_data.png) | ![](./ExampleResults/rendered_grid2/Rendered_Image_Grid_during_training_showing_only_MNIST_MNISTFashion_items.gif) |
 
-**Figure-2:** Input data and corresponding rendered images from learned 3D shapes during training. The model is trained on a combined datasets consisting of MNIST, MNIST Fashion, CelebA, and several categories of ModelNet40.
+**Figure-3:** Input data and corresponding rendered images from learned 3D shapes during training. The model is trained on a combined datasets consisting of MNIST, MNIST Fashion, CelebA, and several categories of ModelNet40.
 
 ## More:
 
